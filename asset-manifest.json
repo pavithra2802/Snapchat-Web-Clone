@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Snapchat-Web-Clone/static/css/main.baf6bf74.css",
+    "main.js": "/Snapchat-Web-Clone/static/js/main.f04ee2be.js",
+    "static/js/592.2464e4c2.chunk.js": "/Snapchat-Web-Clone/static/js/592.2464e4c2.chunk.js",
+    "static/media/logo.png": "/Snapchat-Web-Clone/static/media/logo.e1f9f9f683a27345b690.png",
+    "static/media/logo.svg": "/Snapchat-Web-Clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/imagefive.webp": "/Snapchat-Web-Clone/static/media/imagefive.aed6552f9de2305db419.webp",
+    "static/media/imagetwo.webp": "/Snapchat-Web-Clone/static/media/imagetwo.947423c9d20adcbc9d04.webp",
+    "static/media/imagefour.webp": "/Snapchat-Web-Clone/static/media/imagefour.d6610985fbb9698377af.webp",
+    "static/media/imagethree.webp": "/Snapchat-Web-Clone/static/media/imagethree.ee9c176cf2ada2bdff64.webp",
+    "static/media/imagesix.webp": "/Snapchat-Web-Clone/static/media/imagesix.5c1372b08898faa36209.webp",
+    "index.html": "/Snapchat-Web-Clone/index.html",
+    "main.baf6bf74.css.map": "/Snapchat-Web-Clone/static/css/main.baf6bf74.css.map",
+    "main.f04ee2be.js.map": "/Snapchat-Web-Clone/static/js/main.f04ee2be.js.map",
+    "592.2464e4c2.chunk.js.map": "/Snapchat-Web-Clone/static/js/592.2464e4c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf6bf74.css",
+    "static/js/main.f04ee2be.js"
+  ]
+}
